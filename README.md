@@ -1,1 +1,1 @@
-# animation
+# This is a 3 scene animation made in high school using Adobe Flash CS5
